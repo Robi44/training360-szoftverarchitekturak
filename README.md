@@ -17,3 +17,6 @@ MariaDB
 
 SQL_konzol
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/SQL_konzol.png)
+
+SQL_Editor
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/SQL_Editor1.png)
