@@ -8,3 +8,6 @@ Konzol2
 
 Konzol3
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/konzol3.png)
+
+GUI
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/GUI.png)
