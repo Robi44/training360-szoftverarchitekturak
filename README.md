@@ -20,3 +20,6 @@ SQL_konzol
 
 SQL_Editor
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/SQL_Editor1.png)
+
+SQL_Editor2
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/SQL_Editor2.png)
