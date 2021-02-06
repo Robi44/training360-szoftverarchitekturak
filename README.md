@@ -11,3 +11,6 @@ Konzol3
 
 GUI
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/GUI.png)
+
+MariaDB
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/MariaDB.png)
