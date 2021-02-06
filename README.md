@@ -26,3 +26,6 @@ SQL_Editor2
 
 NoSQL
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/NoSQL.png)
+
+Többrétegű_alkalmazások
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/Többrétegű_alkalmazások.png)
