@@ -14,3 +14,6 @@ GUI
 
 MariaDB
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/MariaDB.png)
+
+SQL_konzol
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/SQL_konzol.png)
