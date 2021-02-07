@@ -32,3 +32,7 @@ Többrétegű_alkalmazások
 
 Webes_alkalmazások
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/Webes_kliens.png)
+
+Webes_alkalmazások_CLI
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/Webes_kliens_CLI.png)
+
