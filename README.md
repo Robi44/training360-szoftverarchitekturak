@@ -29,3 +29,6 @@ NoSQL
 
 Többrétegű_alkalmazások
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/Többrétegű_alkalmazás.png)
+
+Webes alkalmazás
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/Webes kliens.png)
