@@ -36,3 +36,5 @@ Webes_alkalmazások
 Webes_alkalmazások_CLI
 ![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/Webes_kliens_CLI.png)
 
+HTML_CSS
+![](https://github.com/Robi44/training360-szoftverarchitekturak/blob/main/HTML_CSS.png)
